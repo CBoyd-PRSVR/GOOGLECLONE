@@ -1,0 +1,27 @@
+.search{
+    display: block;
+    width: 400px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+
+.logo{
+    display: block;
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.main{
+    margin-top: 100px;
+
+}
+
+.nested{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
